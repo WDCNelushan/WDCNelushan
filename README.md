@@ -86,7 +86,7 @@ I am a motivated BSc (Hons) Information Technology undergraduate specializing in
 
 <br/>
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -105,6 +105,10 @@ I am a motivated BSc (Hons) Information Technology undergraduate specializing in
 </div>
 
 <br/>
+
+## ✨ Quote
+
+> "The goal is to turn data into information, and information into insight." 
 
 <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0077b5" width="100%" />
