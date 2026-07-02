@@ -1,7 +1,18 @@
-<h1 align="center">Hi 👋, I'm Chamika Nelushan</h1>
-<h3 align="center">Passionate IT Student | Full Stack Developer | Future Data Scientist</h3>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=0077b5&reversal=true />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wdcnelushan&label=Profile%20views&color=0e75b6&style=flat" alt="wdcnelushan" /> </p>
+<h1 align="center">Hi 👋, I'm Chamika Nelushan</h1>
+<h3 align="center">💻 Data Science Undergraduate | 📊 Data Analyst | 🌱 Aspiring Data Engineer | 🌐 Full-Stack Developer</h3>
+
+<br/>
+
+<div align="center">
+<a href="mailto:nelushanwickramarachchi2002@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chamikaw2002/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 - 🌱 I’m currently learning **MERN Stack & Python**
 
