@@ -2,7 +2,11 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=0077b5&reversal=true />
 </div>
 
-<h1 align="center">Hi 👋, I'm Chamika Nelushan</h1>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Chamika Nelushan</h1></summary>
+  </ul>
+</div>
 <h3 align="center">💻 Data Science Undergraduate | 📊 Data Analyst | 🌱 Aspiring Data Engineer | 🌐 Full-Stack Developer</h3>
 
 <br/>
@@ -12,13 +16,22 @@
 <a href="https://www.linkedin.com/in/chamikaw2002/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
+<br/>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🌱 I’m currently learning **MERN Stack & Python**
+## 🧑 About Me
 
-- 💬 Ask me about **Web development**
+I am a motivated BSc (Hons) Information Technology undergraduate specializing in Data Science at SLIIT, with a strong foundation in statistics, mathematics, and programming. I'm passionate about extracting meaningful insights from complex datasets, building predictive models, and solving real-world problems through data-driven solutions.
 
-- 📫 How to reach me **nelushanwickramarachchi2002@gmail.com**
+- 🐍 Proficient in Python, R, SQL, and ML libraries (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
+- 📊 Skilled in Exploratory Data Analysis (EDA), Predictive Modeling, and Data Visualization (Tableau, Power BI, Matplotlib, Seaborn)
+- 🔬 Interested in Statistical Modeling, Machine Learning Pipelines, and transforming raw data into actionable business insights
+- 🤝 Open to collaborate on Data Science, ML, Analytics, and AI-driven projects
+
+  <br/>
+
+  ## 🛠️ Tech Stack
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
