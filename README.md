@@ -84,18 +84,29 @@ I am a motivated BSc (Hons) Information Technology undergraduate specializing in
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
 
+<br/>
 
+## Connect With Me
 
+<div align="center">
 
+<a href="mailto:nelushanwickramarachchi2002@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chamikaw2002/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/94703354183">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" />
+</a>
 
-  
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=WDCNelushan&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WDCNelushan&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WDCNelushan&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=WDCNelushan&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<div align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0077b5" width="100%" />
 
-
+</div>
