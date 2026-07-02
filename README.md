@@ -20,7 +20,11 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🧑 About Me
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">🧑 About Me</h2></summary>
+  </ul>
+</div>
 
 I am a motivated BSc (Hons) Information Technology undergraduate specializing in Data Science at SLIIT, with a strong foundation in statistics, mathematics, and programming. I'm passionate about extracting meaningful insights from complex datasets, building predictive models, and solving real-world problems through data-driven solutions.
 
@@ -29,9 +33,34 @@ I am a motivated BSc (Hons) Information Technology undergraduate specializing in
 - 🔬 Interested in Statistical Modeling, Machine Learning Pipelines, and transforming raw data into actionable business insights
 - 🤝 Open to collaborate on Data Science, ML, Analytics, and AI-driven projects
 
-  <br/>
+  <br>
 
-## 🛠️ Tech Stack
+<h3 align="left">Connect with me:</h3>
+<div align="center">
+
+<a href="mailto:nelushanwickramarachchi2002@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chamikaw2002/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/94703354183">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">🛠️ Tech Stack</h2></summary>
+  </ul>
+</div>
 
 - Data Science & Analytics
   
@@ -84,31 +113,44 @@ I am a motivated BSc (Hons) Information Technology undergraduate specializing in
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
 
-<br/>
+<br>
 
-## 🤝 Connect With Me
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align="center">
-
-<a href="mailto:nelushanwickramarachchi2002@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chamikaw2002/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
-</a>
-&nbsp;&nbsp;
-<a href="https://wa.me/94703354183">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" />
-</a>
-
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">⚙️ GitHub Stats</h2></summary>
+  </ul>
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/WDCNelushan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WDCNelushan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/WDCNelushan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WDCNelushan&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=WDCNelushan&theme=midnight-purple&hide_border=true"/>
+<p/>
 
-## ✨ Quote
 
-> "The goal is to turn data into information, and information into insight." 
+![WDCNelushan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=WDCNelushan&custom_title=Chamika's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">✨ Quote</h2></summary>
+  </ul>
+</div>
+
+<em><b> "The goal is to turn data into information, and information into insight." </em></b>
+
+<p align="right" > Created with 🧡 by Chamika Nelushan Wickramarachchi</p>
 
 <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0077b5" width="100%" />
